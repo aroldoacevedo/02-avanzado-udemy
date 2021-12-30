@@ -1,0 +1,2 @@
+nombre: Aroldo Acevedo
+curso: git
